@@ -6,6 +6,7 @@ import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
 import logo from '../images/underc.png';
 
+
 export default class TodosList extends Component {
     render() {
         return (
@@ -13,11 +14,11 @@ export default class TodosList extends Component {
                 <Jumbotron>
                     <Row>
                         <Col> </Col>
-                        <Col className="text-center"><img src={logo} height="200" width="200" margi="auto" alt="Logo" /></Col>
+                        <Col className="text-center powder"><img src={logo} height="200" width="200" margi="auto" alt="Logo" /></Col>
                         <Col> </Col>
                     </Row>
                     <Row>
-                        <Col className="text-center"><h3>Web site under construction.</h3></Col>
+                        <Col className="text-center powder"><h3>Web site under construction.</h3></Col>
                     </Row>
                     <Row className="text-center">
                         <Col> </Col>
