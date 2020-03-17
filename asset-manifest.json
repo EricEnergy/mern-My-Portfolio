@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/EricEnergy/mern-My-Portfolio/static/css/main.b580d965.chunk.css",
+    "main.js": "/EricEnergy/mern-My-Portfolio/static/js/main.f45fcea7.chunk.js",
+    "main.js.map": "/EricEnergy/mern-My-Portfolio/static/js/main.f45fcea7.chunk.js.map",
+    "runtime-main.js": "/EricEnergy/mern-My-Portfolio/static/js/runtime-main.6e970155.js",
+    "runtime-main.js.map": "/EricEnergy/mern-My-Portfolio/static/js/runtime-main.6e970155.js.map",
+    "static/css/2.66165e39.chunk.css": "/EricEnergy/mern-My-Portfolio/static/css/2.66165e39.chunk.css",
+    "static/js/2.556dc509.chunk.js": "/EricEnergy/mern-My-Portfolio/static/js/2.556dc509.chunk.js",
+    "static/js/2.556dc509.chunk.js.map": "/EricEnergy/mern-My-Portfolio/static/js/2.556dc509.chunk.js.map",
+    "index.html": "/EricEnergy/mern-My-Portfolio/index.html",
+    "precache-manifest.c09dc6c8f0dac3e07d2762fc5a3b1a92.js": "/EricEnergy/mern-My-Portfolio/precache-manifest.c09dc6c8f0dac3e07d2762fc5a3b1a92.js",
+    "service-worker.js": "/EricEnergy/mern-My-Portfolio/service-worker.js",
+    "static/css/2.66165e39.chunk.css.map": "/EricEnergy/mern-My-Portfolio/static/css/2.66165e39.chunk.css.map",
+    "static/css/main.b580d965.chunk.css.map": "/EricEnergy/mern-My-Portfolio/static/css/main.b580d965.chunk.css.map",
+    "static/js/2.556dc509.chunk.js.LICENSE.txt": "/EricEnergy/mern-My-Portfolio/static/js/2.556dc509.chunk.js.LICENSE.txt",
+    "static/media/underc.png": "/EricEnergy/mern-My-Portfolio/static/media/underc.704f4cf8.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6e970155.js",
+    "static/css/2.66165e39.chunk.css",
+    "static/js/2.556dc509.chunk.js",
+    "static/css/main.b580d965.chunk.css",
+    "static/js/main.f45fcea7.chunk.js"
+  ]
+}
