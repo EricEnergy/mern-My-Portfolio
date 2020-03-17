@@ -2,7 +2,7 @@
   "name": "mern-portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/EricEnergy/mern-My-Portfolio",
+  "homepage": "https://ericenergy.github.io/mern-My-Portfolio/",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
