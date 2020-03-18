@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/mern-My-Portfolio/static/css/main.bf2b08ab.chunk.css",
-    "main.js": "/mern-My-Portfolio/static/js/main.a19a8197.chunk.js",
-    "main.js.map": "/mern-My-Portfolio/static/js/main.a19a8197.chunk.js.map",
+    "main.js": "/mern-My-Portfolio/static/js/main.f157f841.chunk.js",
+    "main.js.map": "/mern-My-Portfolio/static/js/main.f157f841.chunk.js.map",
     "runtime-main.js": "/mern-My-Portfolio/static/js/runtime-main.99ca0c8d.js",
     "runtime-main.js.map": "/mern-My-Portfolio/static/js/runtime-main.99ca0c8d.js.map",
     "static/css/2.2990c7a7.chunk.css": "/mern-My-Portfolio/static/css/2.2990c7a7.chunk.css",
     "static/js/2.00b43b70.chunk.js": "/mern-My-Portfolio/static/js/2.00b43b70.chunk.js",
     "static/js/2.00b43b70.chunk.js.map": "/mern-My-Portfolio/static/js/2.00b43b70.chunk.js.map",
     "index.html": "/mern-My-Portfolio/index.html",
-    "precache-manifest.94d7d92afa6a5dab710704b8705e4fbe.js": "/mern-My-Portfolio/precache-manifest.94d7d92afa6a5dab710704b8705e4fbe.js",
+    "precache-manifest.f53d20091ec3e1ed98c1b104285db4f1.js": "/mern-My-Portfolio/precache-manifest.f53d20091ec3e1ed98c1b104285db4f1.js",
     "service-worker.js": "/mern-My-Portfolio/service-worker.js",
     "static/css/2.2990c7a7.chunk.css.map": "/mern-My-Portfolio/static/css/2.2990c7a7.chunk.css.map",
     "static/css/main.bf2b08ab.chunk.css.map": "/mern-My-Portfolio/static/css/main.bf2b08ab.chunk.css.map",
@@ -22,6 +22,6 @@
     "static/css/2.2990c7a7.chunk.css",
     "static/js/2.00b43b70.chunk.js",
     "static/css/main.bf2b08ab.chunk.css",
-    "static/js/main.a19a8197.chunk.js"
+    "static/js/main.f157f841.chunk.js"
   ]
 }
