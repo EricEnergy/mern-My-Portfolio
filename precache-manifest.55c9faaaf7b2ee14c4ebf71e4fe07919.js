@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "55c3e7e2fd70303764ed895e4e0036a0",
+    "revision": "1c628d4df121b4caee42e3ce41dcd45a",
     "url": "/mern-My-Portfolio/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mern-My-Portfolio/static/css/2.2990c7a7.chunk.css"
   },
   {
-    "revision": "251256d22485eeac25da",
+    "revision": "4eca2e18f07e2aa6acc2",
     "url": "/mern-My-Portfolio/static/css/main.bf2b08ab.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mern-My-Portfolio/static/js/2.48b84d07.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "251256d22485eeac25da",
-    "url": "/mern-My-Portfolio/static/js/main.55910cf5.chunk.js"
+    "revision": "4eca2e18f07e2aa6acc2",
+    "url": "/mern-My-Portfolio/static/js/main.c517c32b.chunk.js"
   },
   {
     "revision": "d5ab20ffab2e5c7099ee",
