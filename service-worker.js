@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/mern-My-Portfolio/precache-manifest.61c27c1293a4b2c38c0ff3015b9f57ed.js"
+  "/mern-My-Portfolio/precache-manifest.729e85cc82790b6a3adb01b72fe0b72d.js"
 );
 
 self.addEventListener('message', (event) => {
