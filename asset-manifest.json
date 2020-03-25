@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/mern-My-Portfolio/static/css/main.d37c0106.chunk.css",
+    "main.css": "/mern-My-Portfolio/static/css/main.1c5f2b3f.chunk.css",
     "main.js": "/mern-My-Portfolio/static/js/main.7e2fe050.chunk.js",
     "main.js.map": "/mern-My-Portfolio/static/js/main.7e2fe050.chunk.js.map",
     "runtime-main.js": "/mern-My-Portfolio/static/js/runtime-main.99ca0c8d.js",
@@ -9,10 +9,10 @@
     "static/js/2.cc52a06a.chunk.js": "/mern-My-Portfolio/static/js/2.cc52a06a.chunk.js",
     "static/js/2.cc52a06a.chunk.js.map": "/mern-My-Portfolio/static/js/2.cc52a06a.chunk.js.map",
     "index.html": "/mern-My-Portfolio/index.html",
-    "precache-manifest.e00e35dc5d86580da5b9bd0f76ce1c72.js": "/mern-My-Portfolio/precache-manifest.e00e35dc5d86580da5b9bd0f76ce1c72.js",
+    "precache-manifest.d16faac582a479d1dbe253f873b192d0.js": "/mern-My-Portfolio/precache-manifest.d16faac582a479d1dbe253f873b192d0.js",
     "service-worker.js": "/mern-My-Portfolio/service-worker.js",
     "static/css/2.66165e39.chunk.css.map": "/mern-My-Portfolio/static/css/2.66165e39.chunk.css.map",
-    "static/css/main.d37c0106.chunk.css.map": "/mern-My-Portfolio/static/css/main.d37c0106.chunk.css.map",
+    "static/css/main.1c5f2b3f.chunk.css.map": "/mern-My-Portfolio/static/css/main.1c5f2b3f.chunk.css.map",
     "static/js/2.cc52a06a.chunk.js.LICENSE.txt": "/mern-My-Portfolio/static/js/2.cc52a06a.chunk.js.LICENSE.txt",
     "static/media/index.css": "/mern-My-Portfolio/static/media/pix2.c937fa1c.jpeg",
     "static/media/Eric_Simmons_Resume.pdf": "/mern-My-Portfolio/static/media/Eric_Simmons_Resume.3aa9963a.pdf",
@@ -25,7 +25,7 @@
     "static/js/runtime-main.99ca0c8d.js",
     "static/css/2.66165e39.chunk.css",
     "static/js/2.cc52a06a.chunk.js",
-    "static/css/main.d37c0106.chunk.css",
+    "static/css/main.1c5f2b3f.chunk.css",
     "static/js/main.7e2fe050.chunk.js"
   ]
 }
