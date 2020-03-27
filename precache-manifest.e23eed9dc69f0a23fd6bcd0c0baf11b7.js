@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d5576d8d232a317717a27edad1d7e3a7",
+    "revision": "f312b39557c296d9bbec2900ee85bc60",
     "url": "/mern-My-Portfolio/index.html"
   },
   {
-    "revision": "e870ee443482a6d0d148",
-    "url": "/mern-My-Portfolio/static/css/2.66165e39.chunk.css"
+    "revision": "7624aa01b8e491f51221",
+    "url": "/mern-My-Portfolio/static/css/2.2990c7a7.chunk.css"
   },
   {
-    "revision": "cc834c8f639c4c2585ce",
-    "url": "/mern-My-Portfolio/static/css/main.1c5f2b3f.chunk.css"
+    "revision": "133ead3512d7f8e85c0e",
+    "url": "/mern-My-Portfolio/static/css/main.8c10b146.chunk.css"
   },
   {
-    "revision": "e870ee443482a6d0d148",
-    "url": "/mern-My-Portfolio/static/js/2.cc52a06a.chunk.js"
+    "revision": "7624aa01b8e491f51221",
+    "url": "/mern-My-Portfolio/static/js/2.0c93cc0c.chunk.js"
   },
   {
     "revision": "eff3b4d7e4bb0087ce53139cd90bc880",
-    "url": "/mern-My-Portfolio/static/js/2.cc52a06a.chunk.js.LICENSE.txt"
+    "url": "/mern-My-Portfolio/static/js/2.0c93cc0c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "cc834c8f639c4c2585ce",
-    "url": "/mern-My-Portfolio/static/js/main.7e2fe050.chunk.js"
+    "revision": "133ead3512d7f8e85c0e",
+    "url": "/mern-My-Portfolio/static/js/main.e74e2003.chunk.js"
   },
   {
     "revision": "d5ab20ffab2e5c7099ee",
@@ -54,6 +54,26 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "c937fa1cfb71833e15625c047c9c045f",
     "url": "/mern-My-Portfolio/static/media/pix2.c937fa1c.jpeg"
+  },
+  {
+    "revision": "c538018d2773aadd5c59bf5f6eb70841",
+    "url": "/mern-My-Portfolio/static/media/project1.c538018d.jpg"
+  },
+  {
+    "revision": "aa692b8029b9a396dd3d1ffd925c4df2",
+    "url": "/mern-My-Portfolio/static/media/project2.aa692b80.jpg"
+  },
+  {
+    "revision": "004bf4388ae4451346fbf835853761a7",
+    "url": "/mern-My-Portfolio/static/media/project3.004bf438.png"
+  },
+  {
+    "revision": "8b7ae374c842a31f7cfea4656111e04f",
+    "url": "/mern-My-Portfolio/static/media/project4.8b7ae374.png"
+  },
+  {
+    "revision": "d730b6e245bc9edea057c529bec95f20",
+    "url": "/mern-My-Portfolio/static/media/project5.d730b6e2.png"
   },
   {
     "revision": "0111b6fbcd441e346b632de63e3cc11b",
