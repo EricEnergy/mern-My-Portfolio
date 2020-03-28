@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f312b39557c296d9bbec2900ee85bc60",
+    "revision": "199189ccd1530abb5dd56da9dc7d7b9a",
     "url": "/mern-My-Portfolio/index.html"
   },
   {
-    "revision": "7624aa01b8e491f51221",
+    "revision": "8eee0783aaa11fd6e102",
     "url": "/mern-My-Portfolio/static/css/2.2990c7a7.chunk.css"
   },
   {
-    "revision": "133ead3512d7f8e85c0e",
-    "url": "/mern-My-Portfolio/static/css/main.8c10b146.chunk.css"
+    "revision": "96a47544dfd5a1f19323",
+    "url": "/mern-My-Portfolio/static/css/main.258d678a.chunk.css"
   },
   {
-    "revision": "7624aa01b8e491f51221",
-    "url": "/mern-My-Portfolio/static/js/2.0c93cc0c.chunk.js"
+    "revision": "8eee0783aaa11fd6e102",
+    "url": "/mern-My-Portfolio/static/js/2.ef904470.chunk.js"
   },
   {
     "revision": "eff3b4d7e4bb0087ce53139cd90bc880",
-    "url": "/mern-My-Portfolio/static/js/2.0c93cc0c.chunk.js.LICENSE.txt"
+    "url": "/mern-My-Portfolio/static/js/2.ef904470.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "133ead3512d7f8e85c0e",
-    "url": "/mern-My-Portfolio/static/js/main.e74e2003.chunk.js"
+    "revision": "96a47544dfd5a1f19323",
+    "url": "/mern-My-Portfolio/static/js/main.1e3e2c68.chunk.js"
   },
   {
     "revision": "d5ab20ffab2e5c7099ee",
@@ -56,8 +56,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mern-My-Portfolio/static/media/pix2.c937fa1c.jpeg"
   },
   {
-    "revision": "c538018d2773aadd5c59bf5f6eb70841",
-    "url": "/mern-My-Portfolio/static/media/project1.c538018d.jpg"
+    "revision": "60c8d5d25501391e792d06584e051051",
+    "url": "/mern-My-Portfolio/static/media/project1.60c8d5d2.jpg"
   },
   {
     "revision": "aa692b8029b9a396dd3d1ffd925c4df2",

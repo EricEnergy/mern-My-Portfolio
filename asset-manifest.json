@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/mern-My-Portfolio/static/css/main.8c10b146.chunk.css",
-    "main.js": "/mern-My-Portfolio/static/js/main.e74e2003.chunk.js",
-    "main.js.map": "/mern-My-Portfolio/static/js/main.e74e2003.chunk.js.map",
+    "main.css": "/mern-My-Portfolio/static/css/main.258d678a.chunk.css",
+    "main.js": "/mern-My-Portfolio/static/js/main.1e3e2c68.chunk.js",
+    "main.js.map": "/mern-My-Portfolio/static/js/main.1e3e2c68.chunk.js.map",
     "runtime-main.js": "/mern-My-Portfolio/static/js/runtime-main.99ca0c8d.js",
     "runtime-main.js.map": "/mern-My-Portfolio/static/js/runtime-main.99ca0c8d.js.map",
     "static/css/2.2990c7a7.chunk.css": "/mern-My-Portfolio/static/css/2.2990c7a7.chunk.css",
-    "static/js/2.0c93cc0c.chunk.js": "/mern-My-Portfolio/static/js/2.0c93cc0c.chunk.js",
-    "static/js/2.0c93cc0c.chunk.js.map": "/mern-My-Portfolio/static/js/2.0c93cc0c.chunk.js.map",
+    "static/js/2.ef904470.chunk.js": "/mern-My-Portfolio/static/js/2.ef904470.chunk.js",
+    "static/js/2.ef904470.chunk.js.map": "/mern-My-Portfolio/static/js/2.ef904470.chunk.js.map",
     "index.html": "/mern-My-Portfolio/index.html",
-    "precache-manifest.e23eed9dc69f0a23fd6bcd0c0baf11b7.js": "/mern-My-Portfolio/precache-manifest.e23eed9dc69f0a23fd6bcd0c0baf11b7.js",
+    "precache-manifest.c146e27d87af24fab6c4fb9ba55bf002.js": "/mern-My-Portfolio/precache-manifest.c146e27d87af24fab6c4fb9ba55bf002.js",
     "service-worker.js": "/mern-My-Portfolio/service-worker.js",
     "static/css/2.2990c7a7.chunk.css.map": "/mern-My-Portfolio/static/css/2.2990c7a7.chunk.css.map",
-    "static/css/main.8c10b146.chunk.css.map": "/mern-My-Portfolio/static/css/main.8c10b146.chunk.css.map",
-    "static/js/2.0c93cc0c.chunk.js.LICENSE.txt": "/mern-My-Portfolio/static/js/2.0c93cc0c.chunk.js.LICENSE.txt",
+    "static/css/main.258d678a.chunk.css.map": "/mern-My-Portfolio/static/css/main.258d678a.chunk.css.map",
+    "static/js/2.ef904470.chunk.js.LICENSE.txt": "/mern-My-Portfolio/static/js/2.ef904470.chunk.js.LICENSE.txt",
     "static/media/index.css": "/mern-My-Portfolio/static/media/pix2.c937fa1c.jpeg",
     "static/media/Eric_Simmons_Resume.pdf": "/mern-My-Portfolio/static/media/Eric_Simmons_Resume.3aa9963a.pdf",
     "static/media/e2.0.png": "/mern-My-Portfolio/static/media/e2.0.ab29f159.png",
     "static/media/e3.5.png": "/mern-My-Portfolio/static/media/e3.5.f4c84802.png",
     "static/media/mern.png": "/mern-My-Portfolio/static/media/mern.bc1b0d81.png",
-    "static/media/project1.jpg": "/mern-My-Portfolio/static/media/project1.c538018d.jpg",
+    "static/media/project1.jpg": "/mern-My-Portfolio/static/media/project1.60c8d5d2.jpg",
     "static/media/project2.jpg": "/mern-My-Portfolio/static/media/project2.aa692b80.jpg",
     "static/media/project3.png": "/mern-My-Portfolio/static/media/project3.004bf438.png",
     "static/media/project4.png": "/mern-My-Portfolio/static/media/project4.8b7ae374.png",
@@ -29,8 +29,8 @@
   "entrypoints": [
     "static/js/runtime-main.99ca0c8d.js",
     "static/css/2.2990c7a7.chunk.css",
-    "static/js/2.0c93cc0c.chunk.js",
-    "static/css/main.8c10b146.chunk.css",
-    "static/js/main.e74e2003.chunk.js"
+    "static/js/2.ef904470.chunk.js",
+    "static/css/main.258d678a.chunk.css",
+    "static/js/main.1e3e2c68.chunk.js"
   ]
 }
