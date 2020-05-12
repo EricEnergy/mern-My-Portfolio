@@ -15,3 +15,165 @@ code {
 .powder {
   font-size: 200px !important;
 }
+
+@font-face {
+  font-family: 'Playfair_Display';
+  src: local('Playfair_Display'), url(./fonts/PlayfairDisplay-VariableFont_wght.ttf) format('truetype');
+}
+
+h2 {
+  font-family: Playfair_Display;
+}
+
+h3 {
+  font-family: Playfair_Display;
+  font-weight: bold;
+  color: honeydew
+}
+
+h4 {
+  font-family: Playfair_Display;
+  color: honeydew
+}
+
+h5 {
+  color: honeydew;
+  word-wrap: break-word;
+  font-family: Playfair_Display;
+}
+
+h6 {
+  word-wrap: break-word;
+  font-family: Playfair_Display;
+}
+
+.mern {
+  display: block;
+  margin: auto;
+  margin-bottom: 10px;
+}
+
+#name {
+  font-family: Playfair_Display;
+  color: honeydew
+}
+
+#navbarId {
+  border-bottom: 2px solid white;
+  margin-left: 60px;
+  margin-right: 60px;
+  margin-bottom: 10px;
+  transition: background-color 200ms linear;
+
+}
+
+#body {
+  background-color: rgb(22, 20, 20);
+}
+
+#portRow {
+  margin-top: 100px;
+  
+}
+
+.container {
+  text-align: center;
+  width: 1200px !important;
+}
+
+.container1 {
+  max-width: 960px;
+  margin: 0 auto;
+  background: rgb(202, 18, 18);
+  padding: 25px;
+}
+
+.parallax1 {
+  background: url('images/2279565.jpg') no-repeat center;
+  background-size: cover;
+  background-attachment: fixed;
+  height: 800px;
+}
+
+.parallax1_5 {
+  background: url('images/2279565.jpg') no-repeat center;
+  background-size: cover;
+  background-attachment: fixed;
+  height: 300px;
+}
+
+.parallax2 {
+  background: url('images/pix2.jpeg') no-repeat center;
+  background-size: cover;
+  background-attachment: fixed;
+  height: 400px;
+}
+
+
+#frontPage {
+  padding-top: 300px;
+  color: rgba(253, 244, 244, 0.952);
+  font-family: Playfair_Display;
+  letter-spacing: 4px;
+
+}
+
+#frontPageLine2 {
+  letter-spacing: 4px;
+  padding-top: 10px;
+  color: rgba(253, 244, 244, 0.952);
+  font-family: Playfair_Display;
+}
+
+.links {
+  color: rgba(255, 255, 255, 0.795);
+  margin-right: 10px;
+  font-weight: bold;
+}
+
+.links:hover {
+  color: rgba(26, 206, 35, 0.945);
+  text-decoration: none;
+}
+
+#dark {
+  color: rgb(0, 0, 0)
+}
+
+#profilePic {
+  padding:3px;
+  border:3px solid #021a4081;
+  background-color:rgb(255, 255, 255);
+}
+
+#portText {
+  margin-top: 10px;
+  margin-bottom: -20px;
+  font-family: Playfair_Display;
+  font-size: 18px;
+  display:inline;
+  color: rgb(219, 175, 145);
+  text-decoration: none;
+  margin-right: 10px;
+  margin-left: 10px;
+
+}
+
+#portText:hover {
+  font-family: Playfair_Display;
+  color: rgb(167, 81, 41);
+  text-decoration: none;
+}
+
+.portImages {
+  display: inline-block;
+  margin-bottom: 10px;
+  margin-left: 10px;
+  padding-top: 13px;  
+  border-top: 2px solid rgb(78, 78, 78);
+
+}
+
+hr {
+  background-color: antiquewhite;
+}
