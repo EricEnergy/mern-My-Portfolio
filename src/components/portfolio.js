@@ -20,7 +20,7 @@ export default class TodosList extends Component {
                 <div clasName="container1">
                     <div className="parallax1_5">
                         <Navbar id="navbarId" fixed="top" className="navbar-collapse" collapseOnSelect expand="lg" variant="dark">
-                            <Navbar.Brand href="/mern-My-Portfolio/#/portfolio"><img src={logo1} width="200" height="" /></Navbar.Brand>
+                            <Navbar.Brand href="/mern-My-Portfolio/#"><img src={logo1} width="200" height="" /></Navbar.Brand>
                             <Navbar.Toggle aria-controls="responsive-navbar-nav" />
                             <Navbar.Collapse id="responsive-navbar-nav">
                                 <Nav className="mr-auto">
