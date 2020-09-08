@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8e9c0d6f103b634f4f6211369e41f44c",
+    "revision": "7a8f6dbe5e5528f7f6559475b4848869",
     "url": "/mern-My-Portfolio/index.html"
   },
   {
-    "revision": "8eee0783aaa11fd6e102",
+    "revision": "9036b9f1f26b2ed66cd5",
     "url": "/mern-My-Portfolio/static/css/2.2990c7a7.chunk.css"
   },
   {
-    "revision": "30f0932467a71c1d79be",
-    "url": "/mern-My-Portfolio/static/css/main.5d010941.chunk.css"
+    "revision": "9a778346e60190b34d34",
+    "url": "/mern-My-Portfolio/static/css/main.341f0150.chunk.css"
   },
   {
-    "revision": "8eee0783aaa11fd6e102",
-    "url": "/mern-My-Portfolio/static/js/2.ef904470.chunk.js"
+    "revision": "9036b9f1f26b2ed66cd5",
+    "url": "/mern-My-Portfolio/static/js/2.0e416f51.chunk.js"
   },
   {
     "revision": "eff3b4d7e4bb0087ce53139cd90bc880",
-    "url": "/mern-My-Portfolio/static/js/2.ef904470.chunk.js.LICENSE.txt"
+    "url": "/mern-My-Portfolio/static/js/2.0e416f51.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "30f0932467a71c1d79be",
-    "url": "/mern-My-Portfolio/static/js/main.4c259562.chunk.js"
+    "revision": "9a778346e60190b34d34",
+    "url": "/mern-My-Portfolio/static/js/main.8c028ac0.chunk.js"
   },
   {
     "revision": "d5ab20ffab2e5c7099ee",
@@ -32,8 +32,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mern-My-Portfolio/static/media/2279565.fb26fc21.jpg"
   },
   {
-    "revision": "3aa9963a3dd5d695a70c53b4f86ebd6d",
-    "url": "/mern-My-Portfolio/static/media/Eric_Simmons_Resume.3aa9963a.pdf"
+    "revision": "133fdc5a0a89f98eeff1cd3aaaeaee7c",
+    "url": "/mern-My-Portfolio/static/media/Eric_Simmons_Resume.133fdc5a.pdf"
   },
   {
     "revision": "20e1565dd5c9e47bd241d99c0dd55ad1",
