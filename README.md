@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[Launch Site here](https://ericenergy.github.io/mern-My-Portfolio/#/).
 
 ## Summary
 
