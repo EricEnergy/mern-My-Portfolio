@@ -1,47 +1,43 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "055db3e06153aa89e7402bce1690ea23",
+    "revision": "3f2aa42c19ef5c024c52c63c47c3d3ae",
     "url": "/mern-My-Portfolio/index.html"
   },
   {
-    "revision": "9036b9f1f26b2ed66cd5",
-    "url": "/mern-My-Portfolio/static/css/2.2990c7a7.chunk.css"
+    "revision": "1eb61d09c2a3ef892439",
+    "url": "/mern-My-Portfolio/static/css/2.66165e39.chunk.css"
   },
   {
-    "revision": "c0b0ed4a96755e342b87",
-    "url": "/mern-My-Portfolio/static/css/main.2a842c91.chunk.css"
+    "revision": "d72c72bbe6441b0437f7",
+    "url": "/mern-My-Portfolio/static/css/main.29181f13.chunk.css"
   },
   {
-    "revision": "9036b9f1f26b2ed66cd5",
-    "url": "/mern-My-Portfolio/static/js/2.0e416f51.chunk.js"
+    "revision": "1eb61d09c2a3ef892439",
+    "url": "/mern-My-Portfolio/static/js/2.03e46a40.chunk.js"
   },
   {
     "revision": "eff3b4d7e4bb0087ce53139cd90bc880",
-    "url": "/mern-My-Portfolio/static/js/2.0e416f51.chunk.js.LICENSE.txt"
+    "url": "/mern-My-Portfolio/static/js/2.03e46a40.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c0b0ed4a96755e342b87",
-    "url": "/mern-My-Portfolio/static/js/main.d5f713ba.chunk.js"
+    "revision": "d72c72bbe6441b0437f7",
+    "url": "/mern-My-Portfolio/static/js/main.979abda7.chunk.js"
   },
   {
     "revision": "d5ab20ffab2e5c7099ee",
     "url": "/mern-My-Portfolio/static/js/runtime-main.99ca0c8d.js"
   },
   {
-    "revision": "fb26fc21a5d811d783ccff9d16c7a346",
-    "url": "/mern-My-Portfolio/static/media/2279565.fb26fc21.jpg"
+    "revision": "8b2168939f252b69f29a0f4288549a66",
+    "url": "/mern-My-Portfolio/static/media/2279565.8b216893.jpg"
   },
   {
-    "revision": "133fdc5a0a89f98eeff1cd3aaaeaee7c",
-    "url": "/mern-My-Portfolio/static/media/Eric_Simmons_Resume.133fdc5a.pdf"
+    "revision": "db7d52384e9627f8aba86d93efed4978",
+    "url": "/mern-My-Portfolio/static/media/Eric_Simmons_Resume.db7d5238.pdf"
   },
   {
     "revision": "20e1565dd5c9e47bd241d99c0dd55ad1",
     "url": "/mern-My-Portfolio/static/media/PlayfairDisplay-VariableFont_wght.20e1565d.ttf"
-  },
-  {
-    "revision": "ab29f159197747e624ccffc601f541df",
-    "url": "/mern-My-Portfolio/static/media/e2.0.ab29f159.png"
   },
   {
     "revision": "f4c84802117ce1d66e4d1535febaefff",
@@ -50,6 +46,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "bc1b0d816f932f73a8e5f2cd5861e8e7",
     "url": "/mern-My-Portfolio/static/media/mern.bc1b0d81.png"
+  },
+  {
+    "revision": "136835ea3c54c096a3646de332fc02f7",
+    "url": "/mern-My-Portfolio/static/media/mysite.136835ea.jpg"
+  },
+  {
+    "revision": "11c1645c05d9ea78f876153397722fa2",
+    "url": "/mern-My-Portfolio/static/media/petstore.11c1645c.jpg"
   },
   {
     "revision": "c937fa1cfb71833e15625c047c9c045f",
@@ -66,10 +70,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "004bf4388ae4451346fbf835853761a7",
     "url": "/mern-My-Portfolio/static/media/project3.004bf438.png"
-  },
-  {
-    "revision": "8b7ae374c842a31f7cfea4656111e04f",
-    "url": "/mern-My-Portfolio/static/media/project4.8b7ae374.png"
   },
   {
     "revision": "d730b6e245bc9edea057c529bec95f20",
