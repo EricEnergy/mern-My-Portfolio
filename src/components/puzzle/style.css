@@ -1,0 +1,118 @@
+.Blue {
+    background-color: rgb(6, 6, 138);
+    width: 250px;
+    height: 250px;
+    margin: 25px;
+}
+
+.Blue:hover {
+    border: 5px solid rgb(0, 0, 0);
+}
+
+.Green {
+    background-color: rgb(21, 207, 4);
+    width: 250px;
+    height: 250px;
+    margin: 25px;
+}
+
+.Green:hover {
+    border: 5px solid rgb(0, 0, 0);
+}
+
+.Yellow {
+    background-color: rgb(208, 255, 0);
+    width: 250px;
+    height: 250px;
+    margin: 25px;
+}
+
+.Yellow:hover {
+    border: 5px solid rgb(0, 0, 0);
+}
+
+.Orange {
+    background-color: rgb(255, 123, 0);
+    width: 250px;
+    height: 250px;
+    margin: 25px;
+}
+
+.Orange:hover {
+    border: 5px solid rgb(0, 0, 0);
+}
+
+div.modal-content {
+    background-color: rgba(0, 0, 255, 0);
+    display: flex !important;
+}
+
+.textfield {
+    margin-left: 80px;
+    margin-top: 90px;
+    margin-bottom: -30px;
+}
+
+.password {
+    margin: auto;
+    margin-left: 250px;
+    margin-right: -130px;
+    color: rgb(255, 255, 255);
+}
+
+.passAnswer {
+    margin-top: 90px;
+    width: 150px;
+    height: 40px;
+    background-color: rgb(100, 105, 109);
+}
+
+.answer {
+    color: rgb(0, 255, 42);
+}
+
+.buttonSub {
+    height: 40px;
+    margin-top: 90px;
+    margin-left: 10px;
+}
+
+@media (max-width: 428px) {
+
+    .Green {
+        padding-top: 50px;
+        margin: 15px;
+        width: 110px;
+        height: 110px;
+    }
+
+    .Blue {
+        width: 110px;
+        height: 110px;
+        margin: 15px;
+
+    }
+
+    .Orange {
+        width: 110px;
+        height: 110px;
+        margin: 15px;
+
+    }
+
+    .Yellow {
+        width: 110px;
+        height: 110px;
+        margin: 15px;
+    }
+
+    .password {
+        margin-left: 75px;
+        font-size:20px;
+    }
+
+    .textfield{
+        font-size:medium;
+        margin-left: 10px;
+    }
+}

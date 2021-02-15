@@ -60,11 +60,10 @@ h6 {
 
 #navbarId {
   border-bottom: 2px solid white;
-  margin-left: 60px;
-  margin-right: 60px;
+  padding-left: 50px;
+  padding-right: 50px;
   margin-bottom: 10px;
-  transition: background-color 200ms linear;
-
+  background-color: rgba(40, 42, 49, 0.856);
 }
 
 #body {
@@ -136,15 +135,56 @@ h6 {
   text-decoration: none;
 }
 
+
+.portDes{
+  background-color: rgba(40, 42, 49, 0.856);
+  opacity: 0.0;
+  color: rgb(255, 255, 255);
+  font-weight: bold;
+  position: absolute;
+  top: 4.5%;
+  left: 4.7%;
+  width: 500px;
+  height: 262px;
+}
+
+.portDes:hover{
+  opacity: 1.0;
+}
+
+.desText{
+  margin-top: 30px;
+  margin-left: 10px;
+  margin-right: 10px;
+
+}
+
+.desText1{
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.portcol {
+  position: relative;
+}
+
+.portcol:hover {
+  position: relative;
+}
+
 #dark {
   color: rgb(0, 0, 0)
 }
 
 #profilePic {
   padding:3px;
-  border:3px solid #021a4081;
   background-color:rgb(255, 255, 255);
 }
+
+#contactUs{
+  padding-right: 20px;
+}
+
 
 #portText {
   margin-top: 10px;
@@ -170,10 +210,173 @@ h6 {
   margin-bottom: 10px;
   margin-left: 10px;
   padding-top: 13px;  
-  border-top: 2px solid rgb(78, 78, 78);
-
 }
 
 hr {
   background-color: antiquewhite;
+}
+@media (max-width: 580px) { 
+
+h5.text-center{
+    font-size: small;
+    padding: 20px;
+}
+
+.container{
+ text-align: none;
+ width: 300px !important;
+}  
+
+.portImages {
+  margin-left: 0px;
+  padding-bottom: 20px;
+} 
+
+img.portImages{
+  display: block;
+  margin: auto;
+  width: 250px;
+  height: 195px;
+
+}
+a#portText{
+  font-size: small;
+}
+}
+
+@media (max-width: 440px) { 
+  .portDes{
+    font-weight: bold;
+    font-size: 10px;    
+    position: absolute;
+    top: 6.5%;
+    left: 6%;
+    width: 262px;
+    height: 162px;
+  }
+
+  h3.desText{
+    font-size: 20px;    
+  }
+
+  .parallax1_5 {
+    height: 110px;
+  }
+
+  .portImages {
+    display: flex;
+    margin: 20px;
+  }
+
+hr {
+    display: none;
+}
+
+.logoImage{
+  margin-left: -40px;
+}
+
+#navbarId {
+  border-bottom: none;
+}
+
+button.navbar-toggler{
+  margin-right: -35px;
+}
+
+#frontPage {
+  padding-top: 250px;
+}
+
+.parallax1 {
+  height: 600px;
+}
+
+.parallax2 {
+  height: 300px;
+}
+h4.text-center{
+  font-size: small;
+}
+
+div.col{
+  padding: 0;
+  font-size: small;
+}
+
+u{
+  text-decoration: none;
+}
+
+}
+@media (max-width: 1199px) {
+  .portDes{
+    font-weight: bold;
+    font-size: 10px;    
+    position: absolute;
+    left: 220px;
+    
+  }
+}
+
+@media (max-width: 990px) {
+  .portDes{
+    left: 100px;
+    
+  }
+}
+
+@media (max-width: 767px) {
+  .portDes{
+    left: 10px;
+    
+  }
+}
+
+@media (max-width: 580px) {
+  .portDes{
+    top: 6.5%;
+    left: 5px;
+    width: 262px;
+    height: 162px;
+  }
+
+  h3.desText{
+    font-size: 20px;    
+  }
+
+  .parallax1_5 {
+    height: 110px;
+  }
+
+}
+
+@media (max-width: 580px) {
+  .portDes{
+    top: 6.5%;
+    left: 25px;
+    width: 252px;
+    height: 162px;
+  }
+}
+
+@media (max-width: 375px) {
+  .portDes{
+    font-weight: bold;
+    font-size: 10px;    
+    position: absolute;
+    top: 6.5%;
+    left: 6%;
+    width: 262px;
+    height: 162px;
+  }
+
+  h3.desText{
+    font-size: 20px;    
+  }
+
+  .parallax1_5 {
+    height: 110px;
+  }
+
 }
